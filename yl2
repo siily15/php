@@ -2,6 +2,8 @@
 
 $radius = $argv[1];
 
-echo "Pindala : " . 3.14 * $radius * $radius;
+echo "Pindala: " . 3.14 * $radius * $radius;
+echo "\n";
+echo "Raadius: " . 2* $radius * 3.14;
 echo "\n";
 ?>
