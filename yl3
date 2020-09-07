@@ -1,0 +1,7 @@
+<?php
+
+$numbers = $argv[1];
+
+echo $numbers;
+echo "\n";
+?>
