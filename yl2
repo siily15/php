@@ -1,0 +1,7 @@
+<?php
+
+$radius = $argv[1];
+
+echo "Pindala : " . 3.14 * $radius * $radius;
+echo "\n";
+?>
